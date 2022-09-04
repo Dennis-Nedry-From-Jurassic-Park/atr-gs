@@ -8,7 +8,11 @@
     "start:ms:atr": "ts-node -r tsconfig-paths/register apps/ms-template/src/main.ts"
   },
   "dependencies": {
-
+    "google-auth-library": "^8.2.0",
+    "google-spreadsheet": "^3.3.0",
+    "googleapis": "^105.0.0",
+    "bottleneck": "^2.19.5",
+    "tinkoff-invest-api": "^5.0.0"
   },
   "devDependencies": {
 
